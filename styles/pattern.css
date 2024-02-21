@@ -1,0 +1,22 @@
+/* //* Pattern */
+.pattern-con1 {
+  position: absolute;
+  height: 100vh;
+  left: 0;
+  width: 40%;
+  border-radius: 0% 80% 30% 0%;
+  background-color: pink;
+  display: none;
+}
+
+.pattern-con2 {
+  position: absolute;
+  height: 100vh;
+  left: 0;
+  width: 40%;
+  background-color: white;
+  border-radius: 0px 100% 34% 0px / 50%;
+}
+
+/* transform: rotate(90deg); */
+/* transform-origin: top left; */
